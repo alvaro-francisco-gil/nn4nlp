@@ -26,8 +26,8 @@ In this exercise, you will implement a sentiment analysis model using CNNs. The 
 
 #### Key Concepts Covered
 
-1. Implement the sentiment analysis model using CNNs.
-2. Explore different architectures and hyperparameters.
-3. Perform a mechanistic interpretability analysis of the model, visualizing the activations of the model.
+- Implement the sentiment analysis model using CNNs.
+- Explore different architectures and hyperparameters.
+- Perform a mechanistic interpretability analysis of the model, visualizing the activations of the model.
 
 
