@@ -6,7 +6,7 @@ This repository contains the exercises and projects for the Neural Networks for 
 
 ### Description
 
-In this exercise, you will implement sentiment analysis using traditional machine learning techniques and simple neural networks.
+In this exercise, I implemented sentiment analysis using traditional machine learning techniques and simple neural networks.
 
 ### Key Concepts Covered
 
@@ -20,41 +20,41 @@ In this exercise, you will implement sentiment analysis using traditional machin
 
 ### Description
 
-In this exercise, you will implement a sentiment analysis model using CNNs. The model will be trained to classify text into positive or negative sentiment.
+In this exercise, I implemented a sentiment analysis model using CNNs. The model was trained to classify text into positive or negative sentiment.
 
 ### Key Concepts Covered
 
-- Implement the sentiment analysis model using CNNs.
-- Explore different architectures and hyperparameters.
-- Perform a mechanistic interpretability analysis of the model, visualizing the activations of the model.
+- Implemented the sentiment analysis model using CNNs.
+- Explored different architectures and hyperparameters.
+- Performed a mechanistic interpretability analysis of the model, visualizing the activations of the model.
 
 
 ## Exercise 3: Recurrent Networks for Sentiment Analysis
 
 ### Description
 
-In this exercise, you will implement sentiment analysis using recurrent neural networks (RNNs). The model will learn to capture sequential patterns in text data for sentiment classification.
+In this exercise, I implemented sentiment analysis using recurrent neural networks (RNNs). The model learned to capture sequential patterns in text data for sentiment classification.
 
 ### Key Concepts Covered
 
-- Implement RNN-based architectures (LSTM, GRU) for text classification
-- Handle sequential data and variable-length inputs
-- Explore bidirectional RNNs and attention mechanisms
-- Compare performance with previous models (traditional ML and CNNs)
+- Implemented RNN-based architectures (LSTM, GRU) for text classification
+- Handled sequential data and variable-length inputs
+- Explored bidirectional RNNs and attention mechanisms
+- Compared performance with previous models (traditional ML and CNNs)
 
 
 ## Exercise 4: Transformers and Contextual Embeddings
 
 ### Description
 
-In this exercise, you will work with transformer-based models and contextual embeddings for NLP tasks, focusing on sentiment analysis and beyond.
+In this exercise, I worked with transformer-based models and contextual embeddings for NLP tasks, focusing on sentiment analysis and beyond.
 
 ### Key Concepts Covered
 
-- Use pre-trained transformer models like BERT
-- Fine-tune transformers for specific NLP tasks
-- Leverage contextual word embeddings
-- Explore transfer learning in NLP
-- Compare performance with previous architectures
+- Used pre-trained transformer models like BERT
+- Fine-tuned transformers for specific NLP tasks
+- Leveraged contextual word embeddings
+- Explored transfer learning in NLP
+- Compared performance with previous architectures
 
 
