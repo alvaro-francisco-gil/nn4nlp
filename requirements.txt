@@ -22,3 +22,4 @@ torchtext==0.17.0
 openai
 nltk
 gensim
+sentencepiece
