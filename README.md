@@ -29,3 +29,32 @@ In this exercise, you will implement a sentiment analysis model using CNNs. The 
 - Perform a mechanistic interpretability analysis of the model, visualizing the activations of the model.
 
 
+## Exercise 3: Recurrent Networks for Sentiment Analysis
+
+### Description
+
+In this exercise, you will implement sentiment analysis using recurrent neural networks (RNNs). The model will learn to capture sequential patterns in text data for sentiment classification.
+
+### Key Concepts Covered
+
+- Implement RNN-based architectures (LSTM, GRU) for text classification
+- Handle sequential data and variable-length inputs
+- Explore bidirectional RNNs and attention mechanisms
+- Compare performance with previous models (traditional ML and CNNs)
+
+
+## Exercise 4: Transformers and Contextual Embeddings
+
+### Description
+
+In this exercise, you will work with transformer-based models and contextual embeddings for NLP tasks, focusing on sentiment analysis and beyond.
+
+### Key Concepts Covered
+
+- Use pre-trained transformer models like BERT
+- Fine-tune transformers for specific NLP tasks
+- Leverage contextual word embeddings
+- Explore transfer learning in NLP
+- Compare performance with previous architectures
+
+
